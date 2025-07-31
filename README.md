@@ -1,14 +1,5 @@
 # VS Code Complete Setup
 
-```
-██████╗  ██████╗ ██╗  ██╗██╗  ██╗ █████╗ ███╗   ██╗███████╗
-██╔══██╗██╔═══██╗██║ ██╔╝██║  ██║██╔══██╗████╗  ██║╚══███╔╝
-██████╔╝██║   ██║█████╔╝ ███████║███████║██╔██╗ ██║  ███╔╝
-██╔══██╗██║   ██║██╔═██╗ ██╔══██║██╔══██║██║╚██╗██║ ███╔╝
-██║  ██║╚██████╔╝██║  ██╗██║  ██║██║  ██║██║ ╚████║███████╗
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
-```
-
 **Comprehensive VS Code Extension Installer & Configuration Manager**
 
 Automasi lengkap untuk setup VS Code dengan extension management yang canggih, marketplace-style search, dan konfigurasi optimal untuk development environment.
